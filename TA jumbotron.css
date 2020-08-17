@@ -1,0 +1,16 @@
+.display-4
+{
+	margin-top: 10vh;
+}
+.jumbotron .btn
+{
+	border-radius: 25px;
+	width: 200px;
+	border: none;
+	margin-top: 100px; 
+}
+.jumbotron p
+{
+	margin-top: 40px;
+}
+
